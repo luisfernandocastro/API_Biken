@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body {
+    color: black;
+    background-image: url(../images/images_pro/robotics-animate.svg);
+    background-position-y: 35%;
+    background-size: 90%;
+    overflow: hidden;
+}
+
+.imagen {
+    height: 300px;
+    width: 300px;
+}
+
+.name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    color: rgb(255, 206, 206);
+}
+
+.container-principal {
+    padding-top: 10%;
+}
